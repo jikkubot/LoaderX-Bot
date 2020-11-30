@@ -21,6 +21,7 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KGK06/LeaderX-Bo/tree/beta-test)
 - Clone this repo:
 ```
 git clone https://github.com/SVR666/LoaderX-Bot mirror-bot/
